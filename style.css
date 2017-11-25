@@ -1,0 +1,23 @@
+.navbar-brand>img {
+    display: block;
+    height: 27px;
+}
+
+
+.navbar-default {
+	background-color: #0c6e10;
+	/* border-color: #e7e7e7; */
+}
+
+
+.jumbotron {
+
+    padding: 0px;
+    margin: 0;
+    padding-top: 0px;
+}
+
+.jumbotron {
+	padding-top: 48px;
+	padding-bottom: 48px;
+}
